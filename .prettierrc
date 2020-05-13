@@ -5,14 +5,14 @@
   "insertPragma": false,
   "jsxBracketSameLine": false,
   "jsxSingleQuote": false,
-  "printWidth": 90,
+  "printWidth": 80,
   "proseWrap": "preserve",
   "quoteProps": "as-needed",
   "requirePragma": false,
-  "semi": true,
+  "semi": false,
   "singleQuote": false,
   "tabWidth": 2,
-  "trailingComma": "none",
+  "trailingComma": "es5",
   "useTabs": false,
   "vueIndentScriptAndStyle": false
 }
